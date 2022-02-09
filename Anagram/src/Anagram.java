@@ -10,17 +10,17 @@ public class Anagram {
         System.out.print(new Anagram().isAnagram(X,Y)); 
     }
 
-    public boolean isAnagram(String s, String t) {
-        if(s==null || t==null)
+    public boolean isAnagram(String x, String y) {
+        if(x==null || y==null)
             return false;
      
-        if(s.length()!=t.length())
+        if(x.length()!=y.length())
             return false;
      
         int[] arr = new int[26];
-        for(int i=0; i<s.length(); i++){
-            arr[s.charAt(i)-'a']++;
-            arr[t.charAt(i)-'a']--;
+        for(int i=0; i<x.length(); i++){
+            arr[x.charAt(i)-'a']++;
+            arr[y.charAt(i)-'a']--;
         }
      
         for(int i: arr){
