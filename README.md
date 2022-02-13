@@ -12,5 +12,5 @@ pada anagram pertama saya menggunakan pemilihan if else untuk menentukan value a
 
 ### PALINDROM
 
-untuk Palindrom disini saya hanya menggunakan while untuk melakukan perulangan dan lalu di cek valuenyaa
+untuk Palindrom disini saya hanya menggunakan while untuk melakukan perulangan dan lalu di cek valuenyaa sehingga dapat menemukan kata-kata dengan frasa yang sama antara yang di depan dan dibelakang
 
