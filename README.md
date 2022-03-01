@@ -8,7 +8,8 @@ the phone number if there is no it will immediately redirect to the User Name No
 
 ### ANAGRAM
 
-pada anagram pertama saya menggunakan pemilihan if else untuk menentukan value apakan terdapat value atau tidak dan length dari x,y dan value sama atau tidak lalu baru di bandingkan huruf demi huruf dengan melakukan lopping dari value sebelumnya 
+in the first anagram I use the if else selection to determine whether there is a value or not and the length of x, y and the value is the same or not and then compare it letter by letter by looping from the previous value
+ 
 
 ### PALINDROM
 
