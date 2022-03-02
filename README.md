@@ -13,5 +13,5 @@ in the first anagram I use the if else selection to determine whether there is a
 
 ### PALINDROM
 
-untuk Palindrom disini saya hanya menggunakan while untuk melakukan perulangan dan lalu di cek valuenyaa sehingga dapat menemukan kata-kata dengan frasa yang sama antara yang di depan dan dibelakang
+For Palindrom here I only use while to loop and then check the value so that I can find words with the same phrase in front and behind
 
